@@ -4,4 +4,5 @@ This is a portfolio where I present my past projects for data analysis and explo
 ## Kaggle Datasets
 ------------------
 ### Employee Fatigue Prediction
-This project was a regression problem where we attempt to predict a fatigue score. This was a smaller dataset that contained 
+- Used Machine Learning algorithms (Support Vector Regression & Random Forest Regressor) to predict employee fatigue score.
+This project was a regression problem where we attempt to predict a fatigue score for each employee. I made some nice vizulations to explore the relationship between the fatigue score with it's independent variables. I also decided to use two alogorithms (Support Vector Regression & Random Forest Regressor) to build models whic
