@@ -4,8 +4,9 @@ This is a portfolio where I present my past projects for data analysis and explo
 ## Kaggle Datasets
 ------------------
 ### Employee Fatigue Prediction
+[Github](https://github.com/EdgarFonseca94/Portfolio/blob/main/Employee%20Fatigue/Employee%20Burnout%20Out.ipynb)
+
 - Visualized relationship of fatigue score with independent variables using Seaborn.
-- Build machine learning models (Support Vector Regression & Random Forest Regressor) to predict employee fatigue score.
+- Built machine learning models (Support Vector Regression & Random Forest Regressor) to predict employee fatigue score.
 - Utilized RandomizedSearchCV & GridSearchCV to optimize our models.
 
-[Github](https://github.com/EdgarFonseca94/Portfolio/blob/main/Employee%20Fatigue/Employee%20Burnout%20Out.ipynb)
