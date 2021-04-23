@@ -14,6 +14,7 @@ This is a portfolio where I present my past projects for data analysis and explo
 ### Craigslist Apartment Analysis
 [Github](https://github.com/EdgarFonseca94/Portfolio/tree/main/Craigslist)
 [Scaper nbviewer](https://nbviewer.jupyter.org/github/EdgarFonseca94/Portfolio/blob/main/Craigslist/Craiglist%20Scraper.ipynb)
+
 [EDA nbviewer](https://nbviewer.jupyter.org/github/EdgarFonseca94/Portfolio/blob/main/Craigslist/Craigslist%20EDA.ipynb)
 - Scraped craigslist apartment post using BeatifulSoup & Requests packages
 - Cleaned & organized scraped data into a dataframe and saved it to csv format
