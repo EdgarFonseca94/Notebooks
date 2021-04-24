@@ -24,6 +24,10 @@ This is a portfolio where I present my past projects for data analysis and explo
 - Built Linear Regression models for each area using square footage and price since square footage had highest correlation with price.
 ------------------
 ### Restaurant Ranking Analysis
-[Github](https://github.com/EdgarFonseca94/Portfolio/tree/main/Restaurants2020)
+[Github](https://github.com/EdgarFonseca94/Portfolio/tree/main/Rankings2020)
 
-[nbviewer]()
+[nbviewer](https://nbviewer.jupyter.org/github/EdgarFonseca94/Portfolio/blob/main/Rankings2020/Restaurant_250.ipynb)
+
+[Tableau](https://public.tableau.com/profile/edgar.fonseca#!/vizhome/Restaurants2020/Dashboard1)
+
+Summary: Analyzed top 250 restaurants of 2020 to find which type of food was the most popular and which type of restaurants had a change of sales.
