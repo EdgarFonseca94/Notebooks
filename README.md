@@ -30,4 +30,4 @@ This is a portfolio where I present my past projects for data analysis and explo
 
 [Tableau](https://public.tableau.com/profile/edgar.fonseca#!/vizhome/Restaurants2020/Dashboard1)
 
-Summary: Analyzed top 250 restaurants of 2020 to find which type of food was the most popular and which type of restaurants had a change of sales.
+Summary: Analyzed top 250 restaurants of 2020  dataset found in kaggle to find which type of food was the most popular and which type of restaurants had a change of sales. The author of the dataset stated this dataset would be helpful in finding what restaurants may have suffered from COVID-19. I built a tableau dashboard to show some of the best findings.
