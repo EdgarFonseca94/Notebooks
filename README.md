@@ -11,6 +11,7 @@ This is a portfolio where I present my past projects for data analysis and explo
 - Built machine learning models (Support Vector Regression & Random Forest Regressor) to predict employee fatigue score.
 - Utilized RandomizedSearchCV & GridSearchCV to optimize our models.
 <img src = "https://github.com/EdgarFonseca94/Portfolio/blob/main/Employee%20Fatigue/burnratebygender.png">
+
 ------------------
 ### Craigslist Apartment Analysis
 [Github](https://github.com/EdgarFonseca94/Portfolio/tree/main/Craigslist)
@@ -34,3 +35,5 @@ This is a portfolio where I present my past projects for data analysis and explo
 [Tableau](https://public.tableau.com/profile/edgar.fonseca#!/vizhome/Restaurants2020/Dashboard1)
 
 Summary: Analyzed top 250 restaurants of 2020  dataset found in kaggle to find which type of food was the most popular and which type of restaurants had a change of sales. The author of the dataset stated this dataset would be helpful in finding what restaurants may have suffered from COVID-19. I built a tableau dashboard to show some of the best findings.
+
+<img src = "https://github.com/EdgarFonseca94/Portfolio/blob/main/Rankings2020/worstYOYsales.png">
