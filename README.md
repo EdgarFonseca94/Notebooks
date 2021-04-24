@@ -23,7 +23,7 @@ This is a portfolio where I present my past projects for data analysis and explo
 - Analyzed apartment dataset from the Bay Area to find which areas were more expensive and had the best value
 - Built Linear Regression models for each area using square footage and price since square footage had highest correlation with price.
 
-![](https://github.com/EdgarFonseca94/Portfolio/blob/main/Craigslist/linearbyarea.png = 250x250)
+<img src="https://github.com/EdgarFonseca94/Portfolio/blob/main/Craigslist/linearbyarea.png" width="100" height="100">
 ------------------
 ### Restaurant Ranking Analysis
 [Github](https://github.com/EdgarFonseca94/Portfolio/tree/main/Rankings2020)
