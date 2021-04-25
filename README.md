@@ -10,7 +10,8 @@ This is a portfolio where I present my past projects for data analysis and explo
 - Visualized relationship of fatigue score with independent variables using Seaborn.
 - Built machine learning models (Support Vector Regression & Random Forest Regressor) to predict employee fatigue score.
 - Utilized RandomizedSearchCV & GridSearchCV to optimize our models.
-<img src = "https://github.com/EdgarFonseca94/Portfolio/blob/main/Employee%20Fatigue/burnratebygender.png">
+- 
+<img src = "https://github.com/EdgarFonseca94/Portfolio/blob/main/Employee%20Fatigue/burnratebygender.png"/>
 
 ------------------
 ### Craigslist Apartment Analysis
