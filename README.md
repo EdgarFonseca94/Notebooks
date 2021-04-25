@@ -11,7 +11,7 @@ This is a portfolio where I present my past projects for data analysis and explo
 - Built machine learning models (Support Vector Regression & Random Forest Regressor) to predict employee fatigue score.
 - Utilized RandomizedSearchCV & GridSearchCV to optimize our models.
 - 
-<img src = "https://github.com/EdgarFonseca94/Portfolio/blob/main/Employee%20Fatigue/burnratebygender.png"/>
+<img src = "../Employee%20Fatigue/burnratebygender.png"/>
 
 ------------------
 ### Craigslist Apartment Analysis
