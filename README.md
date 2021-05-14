@@ -32,7 +32,8 @@ This is a portfolio where I present my past projects for data analysis and explo
 
 [nbviewer](https://nbviewer.jupyter.org/github/EdgarFonseca94/Portfolio/blob/main/Rankings2020/Restaurant_250.ipynb)
 
-[Tableau](https://public.tableau.com/profile/edgar.fonseca#!/vizhome/Restaurants2020/Dashboard1)
+[Tableau](https://public.tableau.com/profile/edgar.fonseca#!/vizhome/betterworkbook/Dashboard1)
 
 Summary: Analyzed top 250 restaurants of 2020  dataset found in kaggle to find which type of food was the most popular and which type of restaurants had a change of sales. The author of the dataset stated this dataset would be helpful in finding what restaurants may have suffered from COVID-19. I built a tableau dashboard to show some of the best findings.
+
 <img src = "Rankings2020/worstYOYsales.png" width="600" height="400">
