@@ -10,7 +10,8 @@ This is a portfolio where I present my past projects for data analysis and explo
 - Visualized relationship of fatigue score with independent variables using Seaborn.
 - Built machine learning models (Support Vector Regression & Random Forest Regressor) to predict employee fatigue score.
 - Utilized RandomizedSearchCV & GridSearchCV to optimize our models.
-<img src = "Employee Fatigue/burnratebygender.png" width="600" height="400">
+- 
+[<img src = "Employee Fatigue/burnratebygender.png" width="600" height="400">](https://nbviewer.jupyter.org/github/EdgarFonseca94/Portfolio/blob/main/Employee%20Fatigue/Employee%20Burnout%20Out.ipynb)
 
 ------------------
 ### Craigslist Apartment Analysis
@@ -24,7 +25,7 @@ This is a portfolio where I present my past projects for data analysis and explo
 - Analyzed apartment dataset from the Bay Area to find which areas were more expensive and had the best value
 - Built Linear Regression models for each area using square footage and price since square footage had highest correlation with price.
 
-<img src = "Craigslist/linearbyarea.png" width="600" height="400">
+[<img src = "Craigslist/linearbyarea.png" width="600" height="400">](https://nbviewer.jupyter.org/github/EdgarFonseca94/Portfolio/blob/main/Craigslist/Craigslist%20EDA.ipynb)
 
 ------------------
 ### Restaurant Ranking Analysis
