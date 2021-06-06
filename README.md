@@ -38,3 +38,10 @@ This is a portfolio where I present my past projects for data analysis and explo
 Summary: Analyzed top 250 restaurants of 2020  dataset found in kaggle to find which type of food was the most popular and which type of restaurants had a change of sales. The author of the dataset stated this dataset would be helpful in finding what restaurants may have suffered from COVID-19. I built a tableau dashboard to show some of the best findings.
 
 [<img src = "Rankings2020/food_github.JPG" width="600" height="400">](https://public.tableau.com/profile/edgar.fonseca#!/vizhome/betterworkbook/Dashboard1)
+------------------
+### Make Over Mondays Tableau Dashboard
+Make Over Mondays provides participants with a dataset every week and a visualization that can be improved. As I participate I will be posting the dashboards that I create here.
+
+[MakeOverMonday 2021WK20](https://public.tableau.com/app/profile/edgar.fonseca/viz/MOM_16215627613470/Dashboard1)
+Before: 
+[<img src = "MakeOverMondays/WK20/WK20_before.png" width="600" height="400">](https://data.world/makeovermonday/2021w20)
