@@ -50,4 +50,4 @@ Before:
 
 After:
 
-[<img src = 'MakeOverMondays/WK20/MOM_WK20_After.JPG' width="600" height="400>](https://public.tableau.com/app/profile/edgar.fonseca/viz/MOM_16215627613470/Dashboard1)
+[<img src = 'MakeOverMondays/WK20/MOM_WK20_After.JPG' width="600" height="400">](https://public.tableau.com/app/profile/edgar.fonseca/viz/MOM_16215627613470/Dashboard1)
