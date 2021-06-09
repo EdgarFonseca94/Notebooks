@@ -39,10 +39,11 @@ Summary: Analyzed top 250 restaurants of 2020  dataset found in kaggle to find w
 
 [<img src = "Rankings2020/food_github.JPG" width="600" height="400">](https://public.tableau.com/profile/edgar.fonseca#!/vizhome/betterworkbook/Dashboard1)
 ------------------
-### Make Over Mondays Tableau Dashboard
+### Make Over Mondays Tableau Dashboards
 Make Over Mondays provides participants with a dataset every week and a visualization that can be improved. As I participate I will be posting the dashboards that I create here.
 
 [MakeOverMonday 2021WK20](https://data.world/makeovermonday/2021w20)
+[Link to Dashboard]
 
 Before:
 
